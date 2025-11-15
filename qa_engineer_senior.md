@@ -10,8 +10,8 @@ Jedná se o multiproduct aplikaci s:
 - Kompletně vizuálně odlišným whitelabelem
 
 **Odkazy na podobné varianty produktu:**
-- Varianta 1: https://www.dovolena-za-benefity.cz/
-- Varianta 2: https://www.wakacje-za-benefity.pl/
+- Varianta 1: https://test-fe-pl.dovolena-za-benefity.cz
+- Varianta 2: https://test-fe-cz.dovolena-za-benefity.cz
 - Whitelabel: pouze držte na paměti, že existuje a v budoucnu budeme chtít také pokrýt testy.
 
 **O týmu (pouze vývojové role):**
